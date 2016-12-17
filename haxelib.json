@@ -1,0 +1,19 @@
+{
+	"name": "golden-layout",
+	"license": "MIT",
+	"classPath": "src",
+	"tags": [
+		"js",
+		"haxe",
+		"extern",
+		"web"
+	],
+	"description": "Externs of [Golden Layout](https://www.golden-layout.com/) for Haxe",
+	"contributors": [
+		"MrCdK"
+	],
+	"releasenote": "First release",
+	"version": "1.5.6",
+	"url": "https://github.com/mrcdk/golden_layout_haxe",
+	"dependencies": {}
+}
